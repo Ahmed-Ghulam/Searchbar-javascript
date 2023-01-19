@@ -1,0 +1,27 @@
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+Table {
+    border: 1px solid black;
+    width: 1000px;
+
+}
+
+
+th {
+    text-align: start;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+input{
+    width:975px;
+    height: 30px;
+    padding-left: 20px;
+    display: ;
+}
